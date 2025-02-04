@@ -8,7 +8,7 @@ fast_mode = false
 subs = [
 "https://cdn.assrs.us.kg/https://raw.githubusercontent.com/Huibq/TrojanLinks/refs/heads/master/links/vmess",
 "https://cdn.assrs.us.kg/https://t1p.de/9sppr",
-"https://cdn.assrs.us.kg/https://github.com/ripaojiedian/freenode/raw/refs/heads/main/sub",
+"https://cdn.assrs.us.kg/https://github.com/ripaojiedian/freenode/raw/refs/heads/main/sub"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
